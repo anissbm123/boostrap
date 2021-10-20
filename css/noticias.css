@@ -1,0 +1,14 @@
+.colorbody{
+    background-color: rgb(235, 233, 137);
+ }
+footer{
+    background-color: rgb(241, 212, 79);
+    text-align: center;
+    margin: 1%;
+}
+ 
+.colornav{
+     background-color: rgb(241, 212, 79);
+     color: darkgoldenrod;
+     list-style: none;
+}

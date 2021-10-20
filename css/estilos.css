@@ -1,0 +1,78 @@
+
+ .colorbody{
+    background-color: rgb(235, 233, 137);
+ }
+footer{
+    background-color: rgb(241, 212, 79);
+    text-align: center;
+    margin: 1%;
+}
+ 
+.colornav{
+     background-color: rgb(241, 212, 79);
+     color: darkgoldenrod;
+     list-style: none;
+}
+.auron{
+    background-color: rgb(250, 255, 184);
+}
+.botonauron{
+    background-color: rgb(250, 252, 152);
+}
+
+.fargan{
+    background-color: rgb(212, 188, 152);
+}
+.botonfargan{
+    background-color: rgb(156, 125, 92);
+}
+
+.lolito{
+    background-color: rgb(181, 221, 163);
+}
+.botonlolito{
+    background-color: rgb(103, 161, 108);
+}
+
+.luzu{
+    background-color: rgb(255, 184, 184);
+}
+.botonluzu{
+    background-color: rgb(252, 152, 152);
+}
+
+.mangel{
+    background-color: rgb(196, 196, 196);
+}
+.botonmangel{
+    background-color: rgb(145, 148, 156);
+}
+
+.rubius{
+    background-color: rgb(255, 238, 184);
+}
+.botonrubius{
+    background-color: rgb(252, 212, 152);
+}
+
+.vegetta{
+    background-color: rgb(233, 184, 255);
+}
+.botonvegetta{
+    background-color: rgb(220, 152, 252);
+}
+
+.willy{
+    background-color: rgb(195, 255, 155);
+}
+.botonwilly{
+    background-color: rgb(167, 212, 129);
+}
+
+.alexby{
+    background-color: rgb(184, 171, 253);
+}
+.botonalexby{
+    background-color: rgb(130, 117, 253);
+}
+
